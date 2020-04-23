@@ -1,0 +1,14 @@
+module.exports = ({
+    
+    CNPJ: "28026371000161",
+    EMPORIGEM: "2",
+    CEPORIGEM: "01123010",
+    CEPDESTINO: "30320900",
+    CNPJREM: "28026371000161",
+    CNPJDES: "28026371000161",
+    TIPOFRETE: "2",
+    PESO: "30",
+    VALORNF: "187.9",
+    VOLUME: "1",
+    MODAL: "R"
+})
